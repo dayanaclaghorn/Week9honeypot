@@ -19,4 +19,4 @@ I don't fully understand the attacks, but I think that will be remedied with tim
 I didn't fully understand what it was that I was doing when I was setting up my honeypot, so I feel like I didn’t learn much. Then when I ran into problems, it was more difficult to solve them because I didn’t fully understand what it was that I was doing. This will be remedied with time spent messing around with these honeypots after codepath is over.
 
 Additionally, include a json export of the data you collected in the repo, instructions for which can be found in the next section.
-![](session.json)
+https://github.com/dayanaclaghorn/Week9honeypot/blob/master/session.json
